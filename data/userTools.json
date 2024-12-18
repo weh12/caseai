@@ -1,0 +1,326 @@
+[
+  {
+    "id": "1733942587468",
+    "title": "Ollama",
+    "description": "Ollama 是一个基于 Go 语言开发的简单易用的本地大语言模型运行框架。",
+    "url": "https://ollama.com",
+    "icon": "https://www.google.com/s2/favicons?domain=ollama.com&sz=128",
+    "category": "ai-apps",
+    "addedAt": "2024-12-11T18:43:07.468Z"
+  },
+  {
+    "id": "1733943270141",
+    "title": "kimi.ai",
+    "description": "擅长中英文对话，能够帮你阅读和理解各种文档，还能上网搜索信息来解答你的问题。",
+    "url": "https://kimi.moonshot.cn/chat",
+    "icon": "https://www.google.com/s2/favicons?domain=kimi.moonshot.cn&sz=128",
+    "category": "ai-chat",
+    "addedAt": "2024-12-11T18:54:30.141Z"
+  },
+  {
+    "id": "1733943763952",
+    "title": "v0.dev",
+    "description": "v0.dev 是由 Vercel 推出的一款 AI 工具，专为开发人员和设计师设计，能够使用人工智能技术生成 React 代码。",
+    "url": "https://v0.dev/",
+    "icon": "https://www.google.com/s2/favicons?domain=v0.dev&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-11T19:02:43.953Z"
+  },
+  {
+    "id": "1733944198059",
+    "title": "bolt.new",
+    "description": "Bolt.new 是一个由 StackBlitz 提供的 AI 全栈 Web 编程工具，它通过结合人工智能和 WebContainers 技术，使得开发者能够在浏览器中直接编写、运行、编辑和部署全栈应用程序，无需进行复杂的本地环境配置。",
+    "url": "https://bolt.new/",
+    "icon": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-11T19:09:58.059Z"
+  },
+  {
+    "id": "1734337356268",
+    "title": "huggingface",
+    "description": "Hugging Face 是一个专注于自然语言处理（NLP）的人工智能公司，它提供了一个平台，让用户能够轻松地开发、训练和部署NLP模型。",
+    "url": "https://huggingface.co/",
+    "icon": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+    "category": "ai-apps",
+    "addedAt": "2024-12-16T08:22:36.268Z"
+  },
+  {
+    "id": "1734360766659",
+    "title": "豆包",
+    "description": "由字节跳动开发的免费AI助手",
+    "url": "https://www.doubao.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.doubao.com&sz=128",
+    "category": "ai-apps",
+    "addedAt": "2024-12-16T14:52:46.659Z"
+  },
+  {
+    "id": "1734361247514",
+    "title": "笔灵AI写作",
+    "description": "一款国内领先的智能写作助手与工具，功能涵盖工作汇报PPT 、心得体会、演讲稿、分析报告",
+    "url": "https://ibiling.cn/",
+    "icon": "https://www.google.com/s2/favicons?domain=ibiling.cn&sz=128",
+    "category": "ai-writing",
+    "addedAt": "2024-12-16T15:00:47.514Z"
+  },
+  {
+    "id": "1734507963118",
+    "title": "绘蛙AI文案",
+    "description": "种草文案写作工具，免费爆文改写",
+    "url": "https://www.ihuiwa.com/workspace/ai-text/article-rewrite?huiwaInviteCode=EMRCAL",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ihuiwa.com&sz=128",
+    "category": "ai-writing",
+    "addedAt": "2024-12-18T07:46:03.118Z"
+  },
+  {
+    "id": "1734508169204",
+    "title": "Notion AI",
+    "description": "Notion AI推出的内容ai创作助手",
+    "url": "https://www.notion.com/help/guides/category/ai",
+    "icon": "https://www.google.com/s2/favicons?domain=www.notion.com&sz=128",
+    "category": "ai-writing",
+    "addedAt": "2024-12-18T07:49:29.204Z"
+  },
+  {
+    "id": "1734508589103",
+    "title": "66AI论文",
+    "description": "高质量、低查重、低AIGC率的AI论文写作工具",
+    "url": "https://www.66paper.cn/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.66paper.cn&sz=128",
+    "category": "ai-writing",
+    "addedAt": "2024-12-18T07:56:29.103Z"
+  },
+  {
+    "id": "1734508700868",
+    "title": "秘塔写作猫",
+    "description": "秘塔AI写作，文章自成体系",
+    "url": "https://xiezuocat.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=xiezuocat.com&sz=128",
+    "category": "ai-writing",
+    "addedAt": "2024-12-18T07:58:20.869Z"
+  },
+  {
+    "id": "1734508836828",
+    "title": "即梦AI",
+    "description": "抖音旗下免费AI绘画和视频生成工具",
+    "url": "https://jimeng.jianying.com/ai-tool/home/",
+    "icon": "https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=128",
+    "category": "ai-image",
+    "addedAt": "2024-12-18T08:00:36.828Z"
+  },
+  {
+    "id": "1734511526133",
+    "title": "Civitai",
+    "description": "免费的AI图像绘画作品和模型分享平台、以及社区",
+    "url": "https://civitai.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=civitai.com&sz=128",
+    "category": "ai-image",
+    "addedAt": "2024-12-18T08:45:26.133Z"
+  },
+  {
+    "id": "1734511810632",
+    "title": "吐司AI",
+    "description": "AI绘画模型社区和在线生图平台",
+    "url": "https://tusiart.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=tusiart.com&sz=128",
+    "category": "ai-image",
+    "addedAt": "2024-12-18T08:50:10.632Z"
+  },
+  {
+    "id": "1734511971664",
+    "title": "remove.bg",
+    "description": "功能强大的AI图片背景移除工具",
+    "url": "https://www.remove.bg/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.remove.bg&sz=128",
+    "category": "ai-image",
+    "addedAt": "2024-12-18T08:52:51.664Z"
+  },
+  {
+    "id": "1734512206264",
+    "title": "星火绘镜",
+    "description": "科大讯飞推出的AI短视频创作平台",
+    "url": "https://typemovie.art/#/dashboard",
+    "icon": "https://www.google.com/s2/favicons?domain=typemovie.art&sz=128",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T08:56:46.264Z"
+  },
+  {
+    "id": "1734512357456",
+    "title": "白日梦",
+    "description": "AI视频创作平台，最长可生成6分钟的视频，简单方便",
+    "url": "https://aibrm.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=aibrm.com&sz=128",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T08:59:17.456Z"
+  },
+  {
+    "id": "1734512523553",
+    "title": "巨日禄",
+    "description": "一站式AI动漫视频创作平台，提供多种画风选择和配音服务",
+    "url": "https://aibot.jurilu.com/",
+    "icon": "https://cdn.drawstar.tech/web/config/image/gzh-logo-circle.png",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T09:02:03.553Z"
+  },
+  {
+    "id": "1734512868279",
+    "title": "可灵AI",
+    "description": "快手推出的视频生成大模型，可生成2分钟的视频",
+    "url": "https://kling.kuaishou.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=kling.kuaishou.com&sz=128",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T09:07:48.279Z"
+  },
+  {
+    "id": "1734513097793",
+    "title": "Runway",
+    "description": "强大的AI视频制作工具，绿幕抠像、视频合成等",
+    "url": "https://runwayml.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T09:11:37.793Z"
+  },
+  {
+    "id": "1734513179208",
+    "title": "Sora",
+    "description": "OpenAI推出的AI文本到视频生成模型",
+    "url": "https://openai.com/sora/",
+    "icon": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T09:12:59.208Z"
+  },
+  {
+    "id": "1734513345470",
+    "title": "神笔马良",
+    "description": "猫眼娱乐推出的AI影视创作生成工具，专门将剧本一键转换成动态故事板",
+    "url": "https://shenbi.maoyan.com/",
+    "icon": "https://shenbi.maoyan.com/icons/Icon-192.png",
+    "category": "ai-video",
+    "addedAt": "2024-12-18T09:15:45.470Z"
+  },
+  {
+    "id": "1734513572216",
+    "title": "AIppt",
+    "description": "AI快速生成高质量PPT",
+    "url": "https://www.aippt.cn/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.aippt.cn&sz=128",
+    "category": "ai-office",
+    "addedAt": "2024-12-18T09:19:32.216Z"
+  },
+  {
+    "id": "1734513704607",
+    "title": "比格AIppt",
+    "description": "AI一键生成PPT，轻松实现PPT高效排版与制作",
+    "url": "https://bigppt.cn/",
+    "icon": "https://bigppt.cn/favicon.ico",
+    "category": "ai-office",
+    "addedAt": "2024-12-18T09:21:44.607Z"
+  },
+  {
+    "id": "1734514073703",
+    "title": "文多多AIppt",
+    "description": "AI一键生成PPT，支持AI配图和智能资料整合",
+    "url": "https://docmee.cn/",
+    "icon": "https://www.google.com/s2/favicons?domain=docmee.cn&sz=128",
+    "category": "ai-office",
+    "addedAt": "2024-12-18T09:27:53.703Z"
+  },
+  {
+    "id": "1734514189830",
+    "title": "讯飞智文",
+    "description": "科大讯飞推出的免费AIPPT生成工具",
+    "url": "https://zhiwen.xfyun.cn/",
+    "icon": "https://www.google.com/s2/favicons?domain=zhiwen.xfyun.cn&sz=128",
+    "category": "ai-office",
+    "addedAt": "2024-12-18T09:29:49.830Z"
+  },
+  {
+    "id": "1734514330031",
+    "title": "Napkin",
+    "description": "能将文本内容快速转换为演示图像的AI办公工具",
+    "url": "https://www.napkin.ai/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.napkin.ai&sz=128",
+    "category": "ai-office",
+    "addedAt": "2024-12-18T09:32:10.031Z"
+  },
+  {
+    "id": "1734514435702",
+    "title": "Chronicle",
+    "description": "AI高颜值动画演示文稿创建",
+    "url": "https://chroniclehq.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=chroniclehq.com&sz=128",
+    "category": "ai-office",
+    "addedAt": "2024-12-18T09:33:55.702Z"
+  },
+  {
+    "id": "1734514658526",
+    "title": "逗逗",
+    "description": "专为二次元用户设计的AI桌宠应用",
+    "url": "https://www.doudou.fun/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.doudou.fun&sz=128",
+    "category": "ai-chat",
+    "addedAt": "2024-12-18T09:37:38.526Z"
+  },
+  {
+    "id": "1734514861090",
+    "title": "MarsCode",
+    "description": "字节跳动推出的免费AI编程助手，基于豆包大模型",
+    "url": "https://www.marscode.cn/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.marscode.cn&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:41:01.090Z"
+  },
+  {
+    "id": "1734515000767",
+    "title": "通义灵码",
+    "description": "阿里推出的免费AI编程工具，基于通义大模型",
+    "url": "https://tongyi.aliyun.com/lingma",
+    "icon": "https://img.alicdn.com/imgextra/i1/O1CN01BN6Jtc1lCfJNviV7H_!!6000000004783-2-tps-134-133.png",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:43:20.767Z"
+  },
+  {
+    "id": "1734515153559",
+    "title": "代码小浣熊",
+    "description": "商汤科技最新推出的免费AI编程助手",
+    "url": "https://xiaohuanxiong.com/code",
+    "icon": "https://www.google.com/s2/favicons?domain=xiaohuanxiong.com&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:45:53.559Z"
+  },
+  {
+    "id": "1734515279719",
+    "title": "Cursor",
+    "description": "Anysphere公司推出的AI代码编辑器，高效快速代码开发",
+    "url": "https://www.cursor.com/",
+    "icon": "https://www.google.com/s2/favicons?domain=www.cursor.com&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:47:59.719Z"
+  },
+  {
+    "id": "1734515513558",
+    "title": "Windsurf",
+    "description": "Codeium公司推出的AI编程工具，提供了强大的上下文感知能力",
+    "url": "https://codeium.com/windsurf",
+    "icon": "https://codeium.com/logo/windsurf_teal_logo.svg",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:51:53.558Z"
+  },
+  {
+    "id": "1734515728365",
+    "title": "Solo",
+    "description": "Mozilla推出的零代码编程无忧AI网站建设工具",
+    "url": "https://soloist.ai/",
+    "icon": "https://www.google.com/s2/favicons?domain=soloist.ai&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:55:28.365Z"
+  },
+  {
+    "id": "1734515813160",
+    "title": "Github Copilot",
+    "description": "github平台推出的AI编程工具",
+    "url": "https://github.com/features/copilot",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "category": "ai-coding",
+    "addedAt": "2024-12-18T09:56:53.160Z"
+  }
+]
